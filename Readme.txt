@@ -1,6 +1,3 @@
---rain_drop_sensor--
-* This is a normal raindrop sensor checking project
-
 --telegram_raindrop_sensor--
 * This is esp8266 base rain checking system with telegram bot.
 
